@@ -12,7 +12,7 @@ Remember you can download the dataset [here](https://www.kaggle.com/olavomendes/
 Create a conda environment by running
 
 ```bash
-conda create --name aidl-session3 python=3.8
+conda create --name aidl-session3 python=3.9
 ```
 
 Then, activate the environment
